@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getSun()
+comment3.params=num
+comment3.target=void\ setSun(int)
+comment4.params=imag
+comment4.target=greenfoot.GreenfootImage\ shade(greenfoot.GreenfootImage)
+comment5.params=image\ time\ cool
+comment5.target=greenfoot.GreenfootImage\ shade(greenfoot.GreenfootImage,\ double,\ double)
+numComments=6

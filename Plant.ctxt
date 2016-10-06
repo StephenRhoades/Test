@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=cost\ health\ power\ shootSpeed\ gifImage\ name
+comment0.target=Plant(int,\ int,\ int,\ double,\ GifImage,\ java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment10.params=num
+comment10.target=void\ shade(int)
+comment11.params=
+comment11.target=void\ fix()
+comment2.params=
+comment2.target=void\ special()
+comment3.params=
+comment3.target=int\ getHealth()
+comment4.params=
+comment4.target=boolean\ requirement()
+comment5.params=image
+comment5.target=void\ setImage(GifImage)
+comment6.params=
+comment6.target=void\ cycleImage()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=int\ getDelay()
+comment9.params=
+comment9.target=void\ loseHealth()
+numComments=12
